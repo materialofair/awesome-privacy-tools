@@ -217,11 +217,13 @@ Receive SMS verification codes without exposing your real phone number — the p
 - [Obtainium](https://github.com/ImranR98/Obtainium) - Install and update Android apps directly from release sources.
 - [Orbot](https://orbot.app/) - Tor proxy for Android.
 - [RethinkDNS](https://rethinkdns.com/) - DNS, firewall, and anti-censorship app for Android.
+- [SealedPocket](https://space.siproducers.com) - Formerly ZeroNet Space, a GPL-3.0 iPhone and iPad vault for storing photos, videos, files, notes, and recordings locally with encryption and no automatic cloud synchronization.
 - [Shelter](https://gitea.angry.im/PeterCxy/Shelter) - Android work-profile isolation tool.
 - [TrackerControl](https://trackercontrol.org/) - Android app for monitoring and blocking tracking.
 
 ## Photo, Metadata, and Media Privacy
 
+- [Cloakmark](https://redact.siproducers.com) - Formerly ZeroNet Redact, an open-source iPhone and iPad app for redacting private details in photos, videos, and PDFs with on-device processing.
 - [ExifEraser](https://github.com/Tommy-Geenexus/exif-eraser) - Android app for removing image metadata.
 - [ExifTool](https://exiftool.org/) - Read, write, and remove metadata from media files.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer for macOS that can remove metadata.
